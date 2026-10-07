@@ -1,4 +1,16 @@
 ! 2026年9月12日 https://www.wn10.shop
 www.wn10.shop#@#.google-ads
-www.wn10.shop##a[target="_blank"]
 www.wn10.shop##.cate-0
+www.wn10.shop##.dlh > div
+!www.wn10.shop##a[target="_blank"]
+
+! 2026年9月12日 https://www.wn09.shop
+www.wn09.shop#@#.google-ads
+www.wn09.shop##.cate-0
+www.wn09.shop##.dlh > div
+!www.wn09.shop##a[target="_blank"]
+
+! 2026年10月7日 https://huanghuo.ai
+huanghuo.ai##.ext-ad-row
+huanghuo.ai##.g4.grid > .card
+huanghuo.ai##button.cine-thumb:nth-of-type(2)
