@@ -10,6 +10,12 @@ www.wn09.shop##.cate-0
 www.wn09.shop##.dlh > div
 !www.wn09.shop##a[target="_blank"]
 
+! 2026年10月14日 https://www.wn001.cfd
+www.wn001.cfd#@#.google-ads
+www.wn001.cfd##.cate-0
+www.wn001.cfd##.dlh > div
+!www.wn001.cfd##a[target="_blank"]
+
 ! 2026年10月7日 https://huanghuo.ai
 huanghuo.ai##.ext-ad-row
 huanghuo.ai##.g4.grid > .card
