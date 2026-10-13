@@ -15,6 +15,14 @@ www.wn001.cfd#@#.google-ads
 www.wn001.cfd##.cate-0
 www.wn001.cfd##.dlh > div
 !www.wn001.cfd##a[target="_blank"]
+www.wn001.cfd##a[href="/link-index-aid-2.html"]
+www.wn001.cfd##.sh>div
+www.wn001.cfd##a[href^="https://p5wn.x4zg3yf9n.site/"]
+www.wn001.cfd##a[href^="https://a.tp-lp5.org/"]
+www.wn001.cfd##a[href^="https://ent.gbekw.shop/"]
+www.wn001.cfd##
+
+
 
 ! 2026年10月7日 https://huanghuo.ai
 huanghuo.ai##.ext-ad-row
