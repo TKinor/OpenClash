@@ -2,6 +2,7 @@
 www.wn10.shop#@#.google-ads
 www.wn10.shop##.cate-0
 www.wn10.shop##.dlh > div
+www.wn10.shop##a[target="_blank"]:has(img[alt])
 !www.wn10.shop##a[target="_blank"]
 
 ! 2026年9月12日 https://www.wn09.shop
@@ -12,17 +13,7 @@ www.wn09.shop##.dlh > div
 
 ! 2026年10月14日 https://www.wn001.cfd
 www.wn001.cfd#@#.google-ads
-www.wn001.cfd##.cate-0
-www.wn001.cfd##.dlh > div
-!www.wn001.cfd##a[target="_blank"]
-www.wn001.cfd##a[href="/link-index-aid-2.html"]
-www.wn001.cfd##.sh>div
-www.wn001.cfd##a[href^="https://p5wn.x4zg3yf9n.site/"]
-www.wn001.cfd##a[href^="https://a.tp-lp5.org/"]
-www.wn001.cfd##a[href^="https://ent.gbekw.shop/"]
-!www.wn001.cfd##
-
-
+www.wn001.cfd##a[target="_blank"]:has(img[alt])
 
 ! 2026年10月7日 https://huanghuo.ai
 huanghuo.ai##.ext-ad-row
