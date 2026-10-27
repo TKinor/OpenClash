@@ -21,6 +21,10 @@ www.wn003.cfd#@#.google-ads
 www.wn003.cfd##a[target="_blank"]:has(img[alt])
 www.wn003.cfd##.cate-0
 
+! 2026年10月27日 https://www.wnacg.buzz
+www.wnacg.buzz#@#.google-ads
+www.wnacg.buzz##a[target="_blank"]:has(img[alt])
+www.wnacg.buzz##.cate-0
 
 ! 2026年10月7日 https://huanghuo.ai
 huanghuo.ai##.ext-ad-row
