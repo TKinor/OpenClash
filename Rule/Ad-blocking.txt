@@ -31,3 +31,14 @@ huanghuo.ai##.ext-ad-row
 huanghuo.ai##.g4.grid > .card
 huanghuo.ai##button.cine-thumb:nth-of-type(2)
 huanghuo.ai##.cine-stage--ad.cine-stage
+
+! 2026年11月17日 https://www.cloudwn.shop
+www.cloudwn.shop#@#.google-ads
+www.cloudwn.shop##a[target="_blank"]:has(img[alt])
+www.cloudwn.shop##.cate-0
+
+! 2026年11月17日 https://www.wnmanga.shop
+www.wnmanga.shop#@#.google-ads
+www.wnmanga.shop##a[target="_blank"]:has(img[alt])
+www.wnmanga.shop##.cate-0
+
