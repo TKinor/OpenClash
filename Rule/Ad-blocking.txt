@@ -42,3 +42,8 @@ www.wnmanga.shop#@#.google-ads
 www.wnmanga.shop##a[target="_blank"]:has(img[alt])
 www.wnmanga.shop##.cate-0
 
+! 2026年11月21日 https://www.wnacg.site
+www.wnacg.site#@#.google-ads
+www.wnacg.site##a[target="_blank"]:has(img[alt])
+www.wnacg.site##.cate-0
+
